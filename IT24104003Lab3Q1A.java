@@ -4,8 +4,8 @@ public class IT24104003Lab3Q1A {
     
      double finalprice,riceperKG,kg;
     
-     riceperKG=100.00;
-     kg=4.00;
+     riceperKG=225.00;
+     kg=5.00;
      
      finalprice = riceperKG*kg;
     
