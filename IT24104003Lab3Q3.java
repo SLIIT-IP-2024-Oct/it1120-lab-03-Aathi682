@@ -3,7 +3,7 @@ public static void main (String arges[]) {
 
 int amount,remain,num5000,num1000,num500,num100,num50,num20,num10,num5,num2,num1;
 
-amount=458555;
+amount=2754;
 
 num5000=amount/5000;
 remain=amount%5000;
