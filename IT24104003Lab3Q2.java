@@ -6,9 +6,9 @@ double otamount, othourlyrate, totalsalary, monthlysalary;
 
 int othours;
 
-othours=10;
-othourlyrate=1500.00;
-monthlysalary=35000; 
+othours=5;
+othourlyrate=1000.00;
+monthlysalary=50000; 
 
 otamount = othours * othourlyrate;
 
